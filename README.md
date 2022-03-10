@@ -1,6 +1,4 @@
-README.md
-
-以下批处理仅适用于Windows CMD，并不适用于Powershell。
+### 以下批处理仅适用于Windows CMD，并不适用于Powershell。
 
 音频均衡化
 
