@@ -4,10 +4,6 @@ README.md
 
 所需组件：```ffmpeg-normalize```
 
-单个文件：
-
-```ffmpeg "2020.12.12 万有引力1.0.mp3" -af loudnorm=I=-23:LRA=7:tp=-2:measured_I=-30:measured_LRA=1.1:measured_tp=-11 04:measured_thresh=-40.21:offset=-0.47 -ar 48k -y "C:\Downloads\ASMUSIC\normalized\2020.12.12 万有引力1.0.mp3"```
-
 
 批处理：
 
