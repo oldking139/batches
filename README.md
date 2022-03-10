@@ -27,4 +27,5 @@ README.md
 
 ```for %a in ("*.mp3") do mediainfo --Inform="General;%FileName%,%Duration%,%Performer%" "%~na.mp3" >> info.txt```
 
+---
 
